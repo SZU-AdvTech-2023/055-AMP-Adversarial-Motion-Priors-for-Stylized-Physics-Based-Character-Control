@@ -1,0 +1,9 @@
+@article{REPO055,
+    author = "Peng, Xue Bin and Ma, Ze and Abbeel, Pieter and Levine, Sergey and Kanazawa, Angjoo",
+    journal = "ACM Transactions on Graphics (ToG)",
+    number = "4",
+    pages = "1--20",
+    title = "{AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control}",
+    volume = "40",
+    year = "2021"
+}
